@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "mi",
+    "description": "lsl",
+    "price": "6565"
+  },
+  {
+    "id": 2,
+    "name": "iphone",
+    "description": "jnj",
+    "price": "578"
+  },
+  {
+    "id": 3,
+    "name": "dsa",
+    "description": "dsa",
+    "price": "11"
+  }
+]
